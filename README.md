@@ -10,7 +10,7 @@ Telegram-бот в рамках учебного проекта. <br>
 Пример уведомления об изменении мест: <br>
 https://imgur.com/a/vsDR0bO <br>
 Сайт, на котором таблица лидеров визуализирована: <br>
-playhearthstone.com/ru-ru/community/leaderboards/?region=EU&leaderboardId=STD&seasonId=89&page=1 <br>
+https://playhearthstone.com/ru-ru/community/leaderboards/?region=EU&leaderboardId=STD&seasonId=89&page=1 <br>
 Чтобы получать json, нужна немного другая ссылка. 
 
 В первом семестре мы с соседом достаточно много играли в hearthstone и нередко обращались к этому сайту, поэтому я решил изучить основы API именно на этом примере. <br> Ещё суть в том, что json файл хранит просто последовательно ники с некоторыми разделителями, поэтому его несложно парсить, чтобы получить нужную информацию о никнеймах. <br>
